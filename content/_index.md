@@ -36,7 +36,7 @@ Link to my CV.
 
 1.  Equivariant nonabelian Poincare duality and equivariant factorization homology of Thom spectra, with _A. Horev and I. Klang_, [arxiv](https://arxiv.org/pdf/2006.13348)
 2.  Operads, monoids, monads, and bar constructions, with _P. May and R. Zhang_, preprint. [arxiv](https://arxiv.org/pdf/2003.10934)
-3.  The Z/p-equivariant dual Steenrod algebra for an odd prime p, with _P. Hu, I. Kriz and P. Somberg_, preprint. [arxiv](https://arxiv.org/pdf/2205.13427)
+3.  The \\(\mathbb{Z}/p\\)-equivariant dual Steenrod algebra for an odd prime p, with _P. Hu, I. Kriz and P. Somberg_, preprint. [arxiv](https://arxiv.org/pdf/2205.13427)
 4.  Equivariant orientation of vector bundles over disconnected base spaces, with _P. Bhattacharya_, preprint. [arxiv](https://arxiv.org/pdf/2303.10259)
 5.  Orbital presheaves in equivariant infinite loop space theory, with _P. May and H. Kong_, in preparation.
 6.  Group completions and the homotopical monadicity theorem, with _P. May and H. Kong_, in preparation.
