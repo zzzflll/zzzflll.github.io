@@ -40,8 +40,3 @@ Link to my CV.
 8. Orbital presheaves in equivariant infinite loop space theory, with /P. May and H. Kong/, in preparation.
 9. Group completions and the homotopical monadicity theorem, with /P. May and H. Kong/, in preparation.
 
-* Footnotes
-* COMMENT Local Variables                                           :ARCHIVE:
-# Local Variables:
-# eval: (org-hugo-auto-export-mode)
-# End:

@@ -35,5 +35,3 @@ Link to my CV.
 7.  Equivariant orientation of vector bundles over disconnected base spaces, with _P. Bhattacharya_, preprint. [arxiv](https://arxiv.org/pdf/2303.10259)
 8.  Orbital presheaves in equivariant infinite loop space theory, with _P. May and H. Kong_, in preparation.
 9.  Group completions and the homotopical monadicity theorem, with _P. May and H. Kong_, in preparation.
-
-\*
