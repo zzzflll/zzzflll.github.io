@@ -15,13 +15,13 @@ My name is ZOU Foling (邹佛灵). I am an assistant professor in the Institute 
 
 My interest is in homotopy theory. I am currently working on equivariant computations.
 
-Link to my CV.
+Link to my [CV](./cv.pdf).
 
 
 ## Contact {#contact}
 
 -   Email: LastnameFirstname at amss.ac.cn
--   Office: 思源楼309
+-   Office: 思源楼609
 
 
 ## Papers {#papers}
@@ -38,5 +38,6 @@ Link to my CV.
 2.  Operads, monoids, monads, and bar constructions, with _P. May and R. Zhang_, preprint. [arxiv](https://arxiv.org/pdf/2003.10934)
 3.  The \\(\mathbb{Z}/p\\)-equivariant dual Steenrod algebra for an odd prime p, with _P. Hu, I. Kriz and P. Somberg_, preprint. [arxiv](https://arxiv.org/pdf/2205.13427)
 4.  Equivariant orientation of vector bundles over disconnected base spaces, with _P. Bhattacharya_, preprint. [arxiv](https://arxiv.org/pdf/2303.10259)
-5.  Orbital presheaves in equivariant infinite loop space theory, with _P. May and H. Kong_, in preparation.
-6.  Group completions and the homotopical monadicity theorem, with _P. May and H. Kong_, in preparation.
+5.  Loday Constructions of Tambara functors, with _A. Lindenstrauss and B. Richter_, preprint.  [arxiv](https://arxiv.org/pdf/2401.04216.pdf)
+6.  Group completions and the homotopical monadicity theorem, with _P. May and H. Kong_, preprint. [arxiv](https://arxiv.org/pdf/2402.03649.pdf)
+7.  Orbital presheaves in equivariant infinite loop space theory, with _P. May and H. Kong_, in preparation.

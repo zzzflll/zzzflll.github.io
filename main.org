@@ -22,11 +22,11 @@ My name is ZOU Foling (邹佛灵). I am an assistant professor in the Institute 
 
 My interest is in homotopy theory. I am currently working on equivariant computations.
 
-Link to my CV.
+Link to my [CV](./cv.pdf).
 
 ** Contact
 - Email: LastnameFirstname at amss.ac.cn
-- Office: 思源楼309
+- Office: 思源楼609
   
 ** Papers
 1. Examples of étale extensions of Green functors, with /A. Lindenstrauss and B. Richter/, Proceedings of the American Mathematical Society, accpeted. [[https://arxiv.org/pdf/2304.01656v2][arxiv]]
@@ -35,11 +35,13 @@ Link to my CV.
 4. Notes on equivariant bundles, Expo. Math., *39(4)*:644–678, 2021. [[https://doi.org/10.1016/j.exmath.2021.06.002][doi.org/10.1016/j.exmath.2021.06.002]]
    
 ** Preprints
+
 1. Equivariant nonabelian Poincare duality and equivariant factorization homology of Thom spectra, with /A. Horev and I. Klang/, [[https://arxiv.org/pdf/2006.13348][arxiv]]
 2. Operads, monoids, monads, and bar constructions, with /P. May and R. Zhang/, preprint. [[https://arxiv.org/pdf/2003.10934][arxiv]]
 3. The \(\mathbb{Z}/p\)-equivariant dual Steenrod algebra for an odd prime p, with /P. Hu, I. Kriz and P. Somberg/, preprint. [[https://arxiv.org/pdf/2205.13427][arxiv]]
 4. Equivariant orientation of vector bundles over disconnected base spaces, with /P. Bhattacharya/, preprint. [[https://arxiv.org/pdf/2303.10259][arxiv]]
-5. Orbital presheaves in equivariant infinite loop space theory, with /P. May and H. Kong/, in preparation.
-6. Group completions and the homotopical monadicity theorem, with /P. May and H. Kong/, in preparation.
+5. Loday Constructions of Tambara functors, with /A. Lindenstrauss and B. Richter/, preprint.  [[https://arxiv.org/pdf/2401.04216.pdf][arxiv]]
+6. Group completions and the homotopical monadicity theorem, with /P. May and H. Kong/, preprint. [[https://arxiv.org/pdf/2402.03649.pdf][arxiv]]
+7. Orbital presheaves in equivariant infinite loop space theory, with /P. May and H. Kong/, in preparation.
 
 
