@@ -27,9 +27,9 @@ Link to my [CV](./cv.pdf).
 ## Papers {#papers}
 
 1.  Examples of étale extensions of Green functors, with _A. Lindenstrauss and B. Richter_, Proceedings of the American Mathematical Society, accpeted. [arxiv](https://arxiv.org/pdf/2304.01656v2)
-2.  A geometric approach to equivariant factorization homology and nonabelian Poincare duality, Math. Z. **303**, 98 (2023). [doi.org/10.1007/s00209-023-03253-2](https://doi.org/10.1007/s00209-023-03253-2) [arxiv](https://arxiv.org/pdf/2008.08234)
-3.  Loday constructions on twisted products and on tori, with _A. Hedenlund, S. Klanderman, A. Lindenstrauss and B. Richter_, Topology Appl., **316**:108103, 2022. [doi.org/10.1016/j.topol.2022.108103](https://doi.org/10.1016/j.topol.2022.108103) [arxiv](https:arxiv.org/pdf/2002.00715)
-4.  Notes on equivariant bundles, Expo. Math., **39(4)**:644–678, 2021. [doi.org/10.1016/j.exmath.2021.06.002](https://doi.org/10.1016/j.exmath.2021.06.002)
+2.  A geometric approach to equivariant factorization homology and nonabelian Poincare duality, Math. Z. **303**, 98 (2023). [journal](https://doi.org/10.1007/s00209-023-03253-2) [arxiv](https://arxiv.org/pdf/2008.08234)
+3.  Loday constructions on twisted products and on tori, with _A. Hedenlund, S. Klanderman, A. Lindenstrauss and B. Richter_, Topology Appl., **316**:108103, 2022. [journal](https://doi.org/10.1016/j.topol.2022.108103) [arxiv](https:arxiv.org/pdf/2002.00715)
+4.  Notes on equivariant bundles, Expo. Math., **39(4)**:644–678, 2021. [journal](https://doi.org/10.1016/j.exmath.2021.06.002)  [arxiv](https://arxiv.org/pdf/2008.01268.pdf)
 
 
 ## Preprints {#preprints}
