@@ -41,3 +41,8 @@ Link to my [CV](./cv.pdf).
 5.  Loday Constructions of Tambara functors, with _A. Lindenstrauss and B. Richter_, preprint.  [arxiv](https://arxiv.org/pdf/2401.04216.pdf)
 6.  Group completions and the homotopical monadicity theorem, with _P. May and H. Kong_, preprint. [arxiv](https://arxiv.org/pdf/2402.03649.pdf)
 7.  Orbital presheaves in equivariant infinite loop space theory, with _P. May and H. Kong_, in preparation.
+
+
+## Notes {#notes}
+
+1.  Some [notes](./notes/CopenhangenClass.pdf) from Copenhagen masterclass on homtopy method in manifolds.

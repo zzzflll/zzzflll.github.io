@@ -13,7 +13,7 @@
 {{<figure src="./photo.jpg" alt="Name" height="250">}}
 #+end_export
 
-** About me
+** About me 
 #+begin_export hugo
 {{<figure src="./name.png" alt="Name" height="20">}}
 #+end_export
@@ -43,5 +43,19 @@ Link to my [CV](./cv.pdf).
 5. Loday Constructions of Tambara functors, with /A. Lindenstrauss and B. Richter/, preprint.  [[https://arxiv.org/pdf/2401.04216.pdf][arxiv]]
 6. Group completions and the homotopical monadicity theorem, with /P. May and H. Kong/, preprint. [[https://arxiv.org/pdf/2402.03649.pdf][arxiv]]
 7. Orbital presheaves in equivariant infinite loop space theory, with /P. May and H. Kong/, in preparation.
+
+** Notes
+1. Some [notes](./notes/CopenhangenClass.pdf) from Copenhagen masterclass on homtopy method in manifolds.
+
+
+
+
+
+
+
+
+
+
+
 
 
