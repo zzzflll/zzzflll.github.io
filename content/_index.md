@@ -45,4 +45,4 @@ Link to my [CV](./cv.pdf).
 
 ## Notes {#notes}
 
-1.  Some [notes](./notes/CopenhangenClass.pdf) from Copenhagen masterclass on homtopy method in manifolds.
+1.  Some [notes](./notes/CopenhagenClass.pdf) from Copenhagen masterclass on homtopy method in manifolds.

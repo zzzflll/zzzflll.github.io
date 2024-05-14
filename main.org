@@ -45,7 +45,7 @@ Link to my [CV](./cv.pdf).
 7. Orbital presheaves in equivariant infinite loop space theory, with /P. May and H. Kong/, in preparation.
 
 ** Notes
-1. Some [notes](./notes/CopenhangenClass.pdf) from Copenhagen masterclass on homtopy method in manifolds.
+1. Some [notes](./notes/CopenhagenClass.pdf) from Copenhagen masterclass on homtopy method in manifolds.
 
 
 
